@@ -9,7 +9,7 @@ const specialties = [
   { icon: Sun, name: 'Yoga Nidra' },
   { icon: Heart, name: 'Yin Yoga' },
   { icon: Leaf, name: 'Restaurativo' },
-  { icon: Award, name: 'Pilates' },
+
 ]
 
 export default function About() {
@@ -59,7 +59,7 @@ export default function About() {
           {/* Text */}
           <div className="flex-1 space-y-6">
             <p className="text-lg text-sage-600 leading-relaxed">
-              Soy <strong className="text-sage-800">Noelia</strong>, instructora certificada de yoga y pilates
+              Soy <strong className="text-sage-800">Noelia</strong>, instructora certificada de yoga
               con más de una década dedicada al bienestar integral. Mi pasión es acompañar
               a cada persona en su camino hacia el equilibrio físico y mental.
             </p>

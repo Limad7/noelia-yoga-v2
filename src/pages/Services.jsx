@@ -185,7 +185,7 @@ export default function Services() {
                   Estilos variados
                 </h3>
                 <p className="text-sage-700">
-                  Desde Hatha hasta Vinyasa, Pilates y mindfulness
+                  Desde Hatha hasta Vinyasa y mindfulness
                 </p>
               </div>
               <div className="text-center">

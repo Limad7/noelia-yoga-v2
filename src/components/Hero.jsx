@@ -18,7 +18,7 @@ export default function Hero() {
           <div className="flex-1 text-center lg:text-left space-y-8">
             <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/60 backdrop-blur-sm border border-lavender-200 text-lavender-700 text-sm font-medium animate-fade-in">
               <Sparkles size={16} />
-              <span>Yoga · Pilates · Mindfulness</span>
+              <span>Yoga · Mindfulness</span>
             </div>
 
             <h1 className="text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-display font-bold leading-tight animate-fade-in-up">
@@ -30,7 +30,7 @@ export default function Hero() {
 
             <p className="text-lg sm:text-xl text-sage-600 max-w-xl mx-auto lg:mx-0 leading-relaxed animate-fade-in-up animate-delay-200 opacity-0">
               Con más de 10 años de experiencia, acompaño tu camino hacia el bienestar
-              a través del yoga, pilates y mindfulness en Leganés y zona sur de Madrid.
+              a través del yoga y mindfulness en Leganés y zona sur de Madrid.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start animate-fade-in-up animate-delay-300 opacity-0">

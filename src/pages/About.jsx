@@ -58,16 +58,6 @@ export default function About() {
               <div className="bg-white p-6 rounded-2xl shadow-lg hover:shadow-xl transition-all">
                 <Award className="text-lavender-600 mb-4" size={32} />
                 <h3 className="text-xl font-bold text-lavender-900 mb-2">
-                  Pilates
-                </h3>
-                <p className="text-sage-700">
-                  Formación certificada en Pilates, con enfoque en corrección postural y rehabilitación
-                </p>
-              </div>
-
-              <div className="bg-white p-6 rounded-2xl shadow-lg hover:shadow-xl transition-all">
-                <Award className="text-lavender-600 mb-4" size={32} />
-                <h3 className="text-xl font-bold text-lavender-900 mb-2">
                   Yoga Oncológico
                 </h3>
                 <p className="text-sage-700">

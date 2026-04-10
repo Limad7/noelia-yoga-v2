@@ -19,7 +19,7 @@ export default function Footer() {
               </span>
             </Link>
             <p className="text-white/60 text-sm leading-relaxed">
-              Yoga, Pilates y Mindfulness en Leganés y zona sur de Madrid.
+              Yoga y Mindfulness en Leganés y zona sur de Madrid.
               Tu camino hacia el bienestar empieza aquí.
             </p>
           </div>

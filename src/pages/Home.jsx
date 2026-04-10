@@ -29,7 +29,7 @@ export default function Home() {
           </h1>
 
           <p className="text-xl md:text-2xl text-sage-800 mb-8 animate-fade-up delay-200">
-            Yoga, Pilates y mindfulness en un espacio seguro para tu bienestar
+            Yoga y mindfulness en un espacio seguro para tu bienestar
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center animate-fade-up delay-300">
@@ -99,7 +99,7 @@ export default function Home() {
                 Variedad de estilos
               </h3>
               <p className="text-sage-700">
-                Desde Hatha hasta Vinyasa, Pilates y mindfulness
+                Desde Hatha hasta Vinyasa y mindfulness
               </p>
             </div>
 
