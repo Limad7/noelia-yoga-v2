@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom'
 import { User, Building2, Mountain, ArrowRight, Star } from 'lucide-react'
 import particularesImg from '../assets/yogaparticulares.png'
 import empresasImg from '../assets/yogaempresas.jpg'
@@ -13,6 +14,7 @@ const services = [
     color: 'lavender',
     gradient: 'from-lavender-400 to-lavender-600',
     bgGradient: 'from-lavender-50 to-rose-50',
+    link: '/servicios/particulares',
   },
   {
     icon: Building2,
@@ -23,6 +25,7 @@ const services = [
     color: 'sage',
     gradient: 'from-sage-400 to-sage-600',
     bgGradient: 'from-sage-50 to-lavender-50',
+    link: '/servicios/empresas',
   },
   {
     icon: Mountain,
@@ -33,12 +36,13 @@ const services = [
     color: 'rose',
     gradient: 'from-rose-400 to-lavender-500',
     bgGradient: 'from-rose-50 to-lavender-50',
+    link: '/servicios/retiros',
   },
 ]
 
 export default function Services() {
   return (
-    <section id="services" className="section-padding bg-gradient-to-b from-white via-lavender-50/30 to-white relative">
+    <section id="services" className="section-padding bg-texture-lavender relative">
       <div className="max-w-7xl mx-auto">
         {/* Header */}
         <div className="text-center mb-16">
@@ -100,13 +104,13 @@ export default function Services() {
                     ))}
                   </div>
 
-                  <a
-                    href="#contact"
+                  <Link
+                    to={service.link}
                     className="inline-flex items-center gap-2 text-lavender-700 font-semibold hover:gap-3 transition-all duration-300 group"
                   >
                     Más información
                     <ArrowRight size={18} className="group-hover:translate-x-1 transition-transform" />
-                  </a>
+                  </Link>
                 </div>
               </div>
             )

@@ -5,7 +5,7 @@ export default function Hero() {
   return (
     <section id="hero" className="relative min-h-screen flex items-center overflow-hidden">
       {/* Background gradient */}
-      <div className="absolute inset-0 bg-gradient-to-br from-lavender-50 via-rose-50 to-sage-50" />
+      <div className="absolute inset-0 bg-gradient-to-br from-lavender-50 via-rose-50 to-sage-50 bg-texture-lavender" />
 
       {/* Decorative circles */}
       <div className="absolute top-20 right-10 w-72 h-72 bg-lavender-200/30 rounded-full blur-3xl animate-float" />

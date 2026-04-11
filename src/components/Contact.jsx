@@ -2,7 +2,7 @@ import { Mail, Phone, MapPin, Instagram, Send, Clock } from 'lucide-react'
 
 export default function Contact() {
   return (
-    <section id="contact" className="section-padding bg-gradient-to-b from-sage-50/30 to-lavender-50/30 relative overflow-hidden">
+    <section id="contact" className="section-padding bg-texture-rose relative overflow-hidden">
       {/* Decorative */}
       <div className="absolute top-10 left-10 w-40 h-40 bg-lavender-100/40 rounded-full blur-2xl" />
       <div className="absolute bottom-10 right-10 w-56 h-56 bg-sage-100/40 rounded-full blur-2xl" />

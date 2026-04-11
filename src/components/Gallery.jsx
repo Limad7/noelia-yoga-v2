@@ -21,7 +21,7 @@ export default function Gallery() {
   const next = () => setSelected((s) => (s < images.length - 1 ? s + 1 : 0))
 
   return (
-    <section id="gallery" className="section-padding bg-gradient-to-b from-white to-sage-50/30">
+    <section id="gallery" className="section-padding bg-texture-sage">
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-16">
           <span className="inline-block px-4 py-1.5 bg-rose-50 text-rose-700 text-sm font-medium rounded-full mb-4">
