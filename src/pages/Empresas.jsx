@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 import { Building2, ArrowLeft, TrendingDown, Brain, Users, Shield, Sparkles, Check, Phone, Heart, Briefcase, Clock } from 'lucide-react'
-import empresasImg from '../assets/yogaempresas.jpg'
+import empresasImg from '../assets/hero-empresas.png'
 
 const beneficios = [
   { icon: TrendingDown, title: 'Reducción del estrés', desc: 'Disminuye los niveles de cortisol y ansiedad de tu equipo con sesiones regulares de yoga y respiración consciente.' },

@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 import { Mountain, ArrowLeft, TreePine, Sun, Moon, Heart, Sparkles, Check, Phone, Calendar, MapPin, Star } from 'lucide-react'
-import retirosImg from '../assets/retiros-talleres.jpg'
+import retirosImg from '../assets/hero-retiros.png'
 
 const experiencias = [
   { icon: TreePine, title: 'Conexión con la naturaleza', desc: 'Entornos naturales cuidadosamente seleccionados para potenciar la desconexión y la paz interior.' },

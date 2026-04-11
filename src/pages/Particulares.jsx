@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 import { Star, Clock, MapPin, Heart, ArrowLeft, Check, Sparkles, Users, Phone } from 'lucide-react'
-import particularesImg from '../assets/yogaparticulares.png'
+import particularesImg from '../assets/hero-particulares.png'
 
 const beneficios = [
   { icon: Heart, title: 'Atención 100% personalizada', desc: 'Cada sesión se diseña pensando en ti, en tu cuerpo y en tus objetivos.' },
