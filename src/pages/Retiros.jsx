@@ -31,9 +31,9 @@ const tiposRetiro = [
 ]
 
 const proximos = [
-  { fecha: 'Consultar', titulo: 'Retiro de Primavera', lugar: 'Sierra de Madrid', tipo: 'Fin de semana' },
   { fecha: 'Consultar', titulo: 'Taller de Inversiones', lugar: 'Leganés', tipo: 'Taller 4h' },
   { fecha: 'Consultar', titulo: 'Retiro de Verano', lugar: 'Por confirmar', tipo: '3 días' },
+  { fecha: 'Consultar', titulo: 'Retiro de Otoño', lugar: 'La Vera, Cáceres', tipo: 'Fin de semana' },
 ]
 
 export default function Retiros() {
