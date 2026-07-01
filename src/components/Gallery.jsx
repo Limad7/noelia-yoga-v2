@@ -4,12 +4,14 @@ import salonImg from '../assets/yogasalon.jpg'
 import instructionImg from '../assets/yoga-instruction.png'
 import meditandoImg from '../assets/YogaMeditando.jpg'
 import retirosImg from '../assets/retiros-talleres.jpg'
+import empresasImg from '../assets/yoga-empresas-grupo.png'
 
 const images = [
   { src: salonImg, alt: 'Espacio de yoga', caption: 'Nuestro espacio' },
   { src: instructionImg, alt: 'Clase de yoga', caption: 'Clases personalizadas' },
   { src: meditandoImg, alt: 'Meditación', caption: 'Meditación y mindfulness' },
   { src: retirosImg, alt: 'Retiro de yoga', caption: 'Retiros y talleres' },
+  { src: empresasImg, alt: 'Yoga en empresa', caption: 'Yoga corporativo' },
 ]
 
 export default function Gallery() {
