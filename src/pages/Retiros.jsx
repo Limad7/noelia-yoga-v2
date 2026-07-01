@@ -14,7 +14,7 @@ const tiposRetiro = [
     title: 'Retiros de fin de semana',
     desc: 'Inmersión de 2-3 días en entornos naturales cercanos a Madrid. Ideal para desconectar sin necesidad de grandes desplazamientos.',
     incluye: ['2 noches de alojamiento', 'Todas las comidas saludables', '4-6 sesiones de yoga', 'Talleres de meditación', 'Materiales y regalos sorpresa', 'Pequeños grupos (8-12 personas)'],
-    precio: '180-350€',
+    precio: '220-350€',
   },
   {
     title: 'Talleres temáticos',
