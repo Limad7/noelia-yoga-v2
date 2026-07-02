@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 import { User, Building2, Mountain, ArrowRight, Star } from 'lucide-react'
-import particularesImg from '../assets/yogaparticulares.png'
+import particularesImg from '../assets/yogaparticulares.webp'
 import empresasImg from '../assets/yogaempresas.jpg'
 import retirosImg from '../assets/retiros-talleres.jpg'
 
