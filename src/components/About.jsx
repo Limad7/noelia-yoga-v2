@@ -64,9 +64,16 @@ export default function About() {
               a cada persona en su camino hacia el equilibrio físico y mental.
             </p>
             <p className="text-lg text-sage-600 leading-relaxed">
-              Con certificaciones en múltiples disciplinas — desde Hatha y Kundalini hasta
-              Yoga Oncológico — ofrezco un enfoque personalizado que se adapta a tus
-              necesidades, ya seas principiante o practicante avanzado.
+              Con certificación oficial de yoga de 680 horas, además dentro de esta rama he podido seguir formándome en especializaciones como Yoga Oncológico, Kundalini Yoga, Vinyasa, Hatha, Yoga Restaurativo, Yin Yoga, Yoga Nidra.
+            </p>
+            <p className="text-lg text-sage-600 leading-relaxed">
+              También dispongo del título de instructora de Pilates. Formación en Hipopresivos.
+            </p>
+            <p className="text-lg text-sage-600 leading-relaxed">
+              Mis ganas de seguir aprendiendo me han llevado a descubrir el mundo del masaje y a obtener titulación en Masaje Metamórfico y en Shiatsu.
+            </p>
+            <p className="text-lg text-sage-600 leading-relaxed">
+              Esta vocación por el yoga me lleva a estar en continuo aprendizaje constante para poder introducir en mis clases nuevas técnicas y ejercicios siempre enfocados hacia el bienestar de mis alumnos, porque no hay nada que me dé mayor satisfacción que ver sus caras de relajación tras terminar las clases y el saber que les ayudo a sentirse mejor en su día a día.
             </p>
 
             {/* Certifications grid */}

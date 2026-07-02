@@ -5,9 +5,13 @@ import instructionImg from '../assets/yoga-instruction.png'
 import meditandoImg from '../assets/YogaMeditando.jpg'
 import retirosImg from '../assets/retiros-talleres.jpg'
 import empresasImg from '../assets/yoga-empresas-grupo.png'
+import yogaNidraImg from '../assets/yoga-nidra-session.png'
+import soundHealingImg from '../assets/sound-healing-bowls.png'
 
 const images = [
   { src: salonImg, alt: 'Espacio de yoga', caption: 'Nuestro espacio' },
+  { src: yogaNidraImg, alt: 'Yoga Nidra', caption: 'Yoga Nidra' },
+  { src: soundHealingImg, alt: 'Cuencos tibetanos', caption: 'Sonido y Sanación' },
   { src: instructionImg, alt: 'Clase de yoga', caption: 'Clases personalizadas' },
   { src: meditandoImg, alt: 'Meditación', caption: 'Meditación y mindfulness' },
   { src: retirosImg, alt: 'Retiro de yoga', caption: 'Retiros y talleres' },
