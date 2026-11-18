@@ -17,24 +17,34 @@ export default function Cookies() {
         </div>
 
         <div className="space-y-6 text-sage-600 leading-relaxed">
-          <p>Esta política le informa sobre cómo Noelia Yoga utiliza las cookies en este sitio web, cumpliendo con la legislación española y europea en materia de servicios de la sociedad de la información.</p>
+          <p>Esta política le informa sobre el uso de cookies en este sitio web, en cumplimiento de la legislación española y europea en materia de servicios de la sociedad de la información y protección de datos personales (LSSI-CE, RGPD y LOPDGDD).</p>
 
           <div>
             <h2 className="text-xl font-display font-semibold text-lavender-800 mb-3">1. ¿Qué son las cookies?</h2>
-            <p>Las cookies son pequeños ficheros de texto que se descargan en el equipo del usuario al acceder a determinadas páginas web. Permiten almacenar y recuperar información sobre los hábitos de navegación del usuario o de su equipo.</p>
+            <p>Las cookies son pequeños ficheros de texto que se descargan en el equipo del usuario al acceder a determinadas páginas web. Permiten almacenar y recuperar información sobre la navegación del usuario o de su equipo.</p>
           </div>
 
           <div>
-            <h2 className="text-xl font-display font-semibold text-lavender-800 mb-3">2. ¿Qué cookies utilizamos?</h2>
-            <ul className="list-disc pl-6 mt-3 space-y-2">
-              <li><strong className="text-sage-800">Cookies técnicas (necesarias):</strong> Son imprescindibles para el correcto funcionamiento de la web (como recordar tu inicio de sesión o manejar la seguridad). No pueden ser desactivadas en nuestros sistemas.</li>
-              <li><strong className="text-sage-800">Cookies de análisis:</strong> Tratadas por nosotros o por terceros, nos permiten cuantificar el número de usuarios y realizar la medición estadística para mejorar nuestra oferta de servicios.</li>
+            <h2 className="text-xl font-display font-semibold text-lavender-800 mb-3">2. Cookies que utiliza este sitio web</h2>
+            <p>Este sitio web es una página informativa y estática que <strong className="text-sage-800">no utiliza cookies de análisis, publicitarias ni de seguimiento de terceros</strong> (no empleamos Google Analytics ni herramientas similares).</p>
+            <p className="mt-3">Únicamente podrían generarse <strong className="text-sage-800">cookies técnicas</strong> imprescindibles para el correcto funcionamiento técnico del sitio. Estas cookies no recogen datos personales con fines comerciales y no requieren su consentimiento conforme al artículo 22 de la LSSI-CE.</p>
+            <p className="mt-3">Por este motivo, <strong className="text-sage-800">no es necesario mostrar un banner de consentimiento de cookies</strong> al navegar por esta web.</p>
+          </div>
+
+          <div>
+            <h2 className="text-xl font-display font-semibold text-lavender-800 mb-3">3. Cómo gestionar o eliminar las cookies</h2>
+            <p>Puedes permitir, bloquear o eliminar las cookies instaladas en tu equipo mediante la configuración de las opciones de tu navegador de Internet:</p>
+            <ul className="list-disc pl-6 mt-3 space-y-1">
+              <li>Google Chrome: Configuración → Privacidad y seguridad → Cookies</li>
+              <li>Mozilla Firefox: Opciones → Privacidad y seguridad → Cookies</li>
+              <li>Safari: Preferencias → Privacidad → Cookies</li>
+              <li>Microsoft Edge: Configuración → Privacidad → Cookies</li>
             </ul>
           </div>
 
           <div>
-            <h2 className="text-xl font-display font-semibold text-lavender-800 mb-3">3. Cómo configurar o desactivar sus cookies</h2>
-            <p>Puedes permitir, bloquear o eliminar las cookies instaladas en tu equipo mediante la configuración de las opciones de tu navegador de Internet. En caso de que no permitas la instalación de cookies, es posible que no puedas acceder a algunos servicios.</p>
+            <h2 className="text-xl font-display font-semibold text-lavender-800 mb-3">4. Actualización de esta política</h2>
+            <p>Si en el futuro este sitio web incorporase cookies de análisis o de terceros, se actualizará esta política y, en su caso, se solicitará el consentimiento previo del usuario antes de su instalación.</p>
           </div>
         </div>
       </div>
